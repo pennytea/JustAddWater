@@ -1,0 +1,6 @@
+main: me.pennyroyaltea.JustAddWater.Main
+name: JustAddWater
+author: pennyroyal_tea
+description: Adds some recipes to craft Concrete and Mud easier!
+version: 1.0
+api-version: 1.19
