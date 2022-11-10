@@ -91,7 +91,7 @@ public class Recipes
 		Bukkit.getServer().addRecipe(lblue);
 		
 		ShapelessRecipe cyan = new ShapelessRecipe(new NamespacedKey(plugin, "cyan_concrete"), new ItemStack(Material.CYAN_CONCRETE, 8));
-		cyan.addIngredient(8, Material.CYAN_BLUE_CONCRETE_POWDER);
+		cyan.addIngredient(8, Material.CYAN_CONCRETE_POWDER);
 		cyan.addIngredient(Material.WATER_BUCKET);
 		cyan.setGroup("concrete");
 		Bukkit.getServer().addRecipe(cyan);
